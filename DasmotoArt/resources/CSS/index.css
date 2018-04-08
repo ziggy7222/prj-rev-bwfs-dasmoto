@@ -1,0 +1,55 @@
+h1,
+h2,
+h3,
+p
+{
+ font-family: Helvetica
+}
+h1
+{
+  font-size:100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#head
+{
+      background-image:url(/Users/sigrunkrueger/Documents/CodeCademy/projects/DasmotoArt/resources/images/pattern.jpeg);
+      background-repeat: repeat-x;
+      width: 100%;
+      height: 120px;
+      position: background-colour;
+}
+h2
+{
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+#Brushes
+{
+background-color: mediumspringgreen;
+}
+
+#Frames
+{
+background-color: lightcoral;
+}
+
+#Paint
+{
+background-color: skyblue;
+}
+
+h3
+{
+font-weight: bold;
+}
+
+.price {
+
+  font-weight: bold;
+  color: blue;
+}
